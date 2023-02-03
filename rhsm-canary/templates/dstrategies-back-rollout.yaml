@@ -72,4 +72,4 @@ spec:
       - setWeight: 20
       - pause: {duration 10} # pause indefinitely  
       - setWeight: 50
-      - pasue: {}
+      - pause: {}
